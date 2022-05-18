@@ -1,5 +1,34 @@
 [
   {
+    "title": "Flow",
+    "authors": [
+      "Mihaly Csikszentmihalyi"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2009-10-13",
+    "description": "“Csikszentmihalyi arrives at an insight that many of us can intuitively grasp, despite our insistent (and culturally supported) denial of this truth. That is, it is not what happens to us that determines our happiness, but the manner in which we make sense of that reality. . . . The manner in which Csikszentmihalyi integrates research on consciousness, personal psychology and spirituality is illuminating.” —Los Angeles Times Book Review The bestselling classic that holds the key to unlocking meaning, creativity, peak performance, and true happiness. Legendary psychologist Mihaly Csikszentmihalyi's famous investigations of \"optimal experience\" have revealed that what makes an experience genuinely satisfying is a state of consciousness called flow. During flow, people typically experience deep enjoyment, creativity, and a total involvement with life. In this new edition of his groundbreaking classic work, Csikszentmihalyi (\"the leading researcher into ‘flow states’\" —Newsweek) demonstrates the ways this positive state can be controlled, not just left to chance. Flow: The Psychology of Optimal Experience teaches how, by ordering the information that enters our consciousness, we can discover true happiness, unlock our potential, and greatly improve the quality of our lives.",
+    "image": "http://books.google.com/books/content?id=QVjPsd1UukEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1404,
+    "categories": [
+      "Psychology"
+    ],
+    "pageCount": 336,
+    "isbn10": "0061876720",
+    "isbn13": "9780061876721",
+    "googleBooks": {
+      "id": "QVjPsd1UukEC",
+      "preview": "http://books.google.com/books?id=QVjPsd1UukEC&printsec=frontcover&dq=intitle:flow+by+mihaly+csikszentmihalyi&hl=&cd=2&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=QVjPsd1UukEC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=QVjPsd1UukEC"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-18T23:11:12.000Z"
+  },
+  {
     "title": "All Things Shining",
     "authors": [
       "Hubert Dreyfus",
