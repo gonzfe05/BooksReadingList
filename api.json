@@ -21,8 +21,11 @@
     },
     "issueNumber": 3,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-18T23:12:45.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-18T23:12:45.000Z",
+    "completedAt": "2022-05-18T23:13:34.000Z",
+    "timeToComplete": 49000,
+    "timeToCompleteFormatted": "49 seconds"
   },
   {
     "title": "Flow",
