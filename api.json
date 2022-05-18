@@ -1,5 +1,30 @@
 [
   {
+    "title": "Deep Work",
+    "authors": [
+      "Cal Newport"
+    ],
+    "publisher": "Piatkus Books",
+    "publishedDate": "2016-01-15",
+    "image": "http://books.google.com/books/content?id=UcYkjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 24,
+    "pageCount": 304,
+    "isbn10": "0349413681",
+    "isbn13": "9780349413686",
+    "googleBooks": {
+      "id": "UcYkjwEACAAJ",
+      "preview": "http://books.google.com/books?id=UcYkjwEACAAJ&dq=intitle:deep+work+by+cal+newport&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=UcYkjwEACAAJ&dq=intitle:deep+work+by+cal+newport&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Deep_Work.html?hl=&id=UcYkjwEACAAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-18T23:12:45.000Z"
+  },
+  {
     "title": "Flow",
     "authors": [
       "Mihaly Csikszentmihalyi"
