@@ -53,8 +53,11 @@
     },
     "issueNumber": 2,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-18T23:11:12.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-18T23:11:12.000Z",
+    "completedAt": "2022-05-19T15:32:00.000Z",
+    "timeToComplete": 58848000,
+    "timeToCompleteFormatted": "16 hours"
   },
   {
     "title": "All Things Shining",
